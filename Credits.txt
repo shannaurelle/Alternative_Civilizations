@@ -1,0 +1,21 @@
+Mod Created by Shann and the Contributors - 0.1.0
+
+Alternative Civilizations
+
+A collection of what-ifs civilzations documented through some novels
+written by unfamous or famous authors.
+
+Conditions for inclusion of fictional civilizations: 
+1. This civilization must last in record at least 100 years.
+2. This civilization must have at least one famous leader. If there
+are many, only choose the best. If there's none, choose the founder.
+3. This civilization must have a unique personality that is different
+from the real-life civilizations. If such a civilization does extend 
+from the real-life examples, stretch it further. Make hypothesis
+about its future reforms. Quoting the Philippine intellectual and 
+hero Jose Rizal, "a nation's future can be predicted by its past and present".
+There are many ways a nation can undergo changes. The creativity is the limit!
+
+Changelog
+
+0.1.0 - Added essential files
